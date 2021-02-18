@@ -1,0 +1,4 @@
+C:\Users\JHON\source\repos\EnmanuelParcial\EnmanuelParcial\obj\Debug\netcoreapp3.1\EnmanuelParcial.csprojAssemblyReference.cache
+C:\Users\JHON\source\repos\EnmanuelParcial\EnmanuelParcial\obj\Debug\netcoreapp3.1\EnmanuelParcial.AssemblyInfoInputs.cache
+C:\Users\JHON\source\repos\EnmanuelParcial\EnmanuelParcial\obj\Debug\netcoreapp3.1\EnmanuelParcial.AssemblyInfo.cs
+C:\Users\JHON\source\repos\EnmanuelParcial\EnmanuelParcial\obj\Debug\netcoreapp3.1\EnmanuelParcial.csproj.CoreCompileInputs.cache

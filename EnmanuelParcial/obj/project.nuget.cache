@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bjdk9uQI5SkxgFHpv7ffTQnPP6/YbB4bE5qqVdjUJNRx6dqYdCfV4tS+7FUVmiCjOYJWPlxf2DiST1vuZu5mHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JHON\\source\\repos\\EnmanuelParcial\\EnmanuelParcial\\EnmanuelParcial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JHON\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\JHON\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
